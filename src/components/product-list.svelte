@@ -22,6 +22,12 @@
   }
 </script>
 
+<style>
+  .card-body {
+    padding: 0;
+  }
+</style>
+
 <div class="card">
   <div class="card-header">{pageTitle}</div>
 
